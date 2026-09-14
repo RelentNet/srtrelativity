@@ -1,0 +1,5 @@
+# Runtime secrets — generated stream keys, passphrases, tokens. Never commit.
+secrets.yaml
+.env
+
+.DS_Store
